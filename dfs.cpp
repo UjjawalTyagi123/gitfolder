@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-  cout<<"DFS code";
+  cout<<"writting dfs code";
    return 0;
 } 
