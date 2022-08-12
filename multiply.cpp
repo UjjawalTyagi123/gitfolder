@@ -5,6 +5,6 @@ int main()
    int a,b,c;
    cin>>a>>b;
    c=a*b;
-   cout<<("sum is ",c) ;
+   cout<<("product of a and b is ",c) ;
    return 0;
 } 
